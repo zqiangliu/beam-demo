@@ -1,0 +1,7 @@
+hello world hadoop
+hi flink beam java
+java hadoop hello
+good 11 was java apache beam
+11 22 hello
+22 map java beam
+mapreduce
